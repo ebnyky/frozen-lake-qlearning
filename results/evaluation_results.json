@@ -1,0 +1,7 @@
+{
+    "evaluation_episodes": 200,
+    "success_rate_percent": 100.0,
+    "average_reward": 87.0,
+    "number_of_successful_runs": 200,
+    "number_of_failures": 0
+}

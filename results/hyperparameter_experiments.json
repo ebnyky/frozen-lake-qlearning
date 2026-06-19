@@ -1,0 +1,38 @@
+[
+    {
+        "alpha": 0.1,
+        "gamma": 0.9,
+        "epsilon_decay": 0.9995,
+        "training_success_rate_percent": 71.98750000000001,
+        "training_average_reward": 27.639375,
+        "evaluation_success_rate_percent": 100,
+        "evaluation_average_reward": 87.0
+    },
+    {
+        "alpha": 0.1,
+        "gamma": 0.95,
+        "epsilon_decay": 0.9995,
+        "training_success_rate_percent": 78.3625,
+        "training_average_reward": 39.516875,
+        "evaluation_success_rate_percent": 100,
+        "evaluation_average_reward": 87.0
+    },
+    {
+        "alpha": 0.1,
+        "gamma": 0.99,
+        "epsilon_decay": 0.9995,
+        "training_success_rate_percent": 71.89999999999999,
+        "training_average_reward": 27.58625,
+        "evaluation_success_rate_percent": 100,
+        "evaluation_average_reward": 87.0
+    },
+    {
+        "alpha": 0.2,
+        "gamma": 0.99,
+        "epsilon_decay": 0.9995,
+        "training_success_rate_percent": 70.15,
+        "training_average_reward": 23.937625,
+        "evaluation_success_rate_percent": 100,
+        "evaluation_average_reward": 87.0
+    }
+]
